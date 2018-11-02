@@ -56,14 +56,14 @@ Owner can block call pauseTokens FOREVER
 13 isblockCallPauseTokens()
 view status about the possibility of calling pauseTokens()
 
-14) SetMintTimeLimit()
+14 SetMintTimeLimit()
 Owner can change time limit for call ISL()
 
-15) blockSetMintTimeLimit()
+15 blockSetMintTimeLimit()
 Owner can block SetMintTimeLimit() FOREVER
 set 2B by default after block
 
-16) isblockSetMintTimeLimit()
+16 isblockSetMintTimeLimit()
 View status about the possibility of calling of SetMintTimeLimit function
 
 # Install
